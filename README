@@ -1,0 +1,12 @@
+
+***Tic Tac Toe game in Common lisp**
+
+The table is arranged as following
+
+0 1 2
+3 4 5
+6 7 8
+
+- User vs computer
+- User has to start
+- After each player turn, table position is printed.
